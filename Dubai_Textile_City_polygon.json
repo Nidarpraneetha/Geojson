@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.41665,
+              25.17204
+            ],
+            [
+              55.42643,
+              25.16981
+            ],
+            [
+              55.42542,
+              25.16498
+            ],
+            [
+              55.41734,
+              25.16658
+            ],
+            [
+              55.41665,
+              25.17204
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dubai Textile City ",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

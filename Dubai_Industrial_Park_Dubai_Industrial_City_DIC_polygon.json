@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.048217,
+              24.842037
+            ],
+            [
+              55.087356,
+              24.867582
+            ],
+            [
+              55.077743,
+              24.795451
+            ],
+            [
+              55.127375,
+              24.826011
+            ],
+            [
+              55.048217,
+              24.842037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dubai Industrial Park / Dubai Industrial City (DIC)",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

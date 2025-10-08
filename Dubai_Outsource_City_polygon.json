@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.42484,
+              25.12391
+            ],
+            [
+              55.42488,
+              25.12359
+            ],
+            [
+              55.42517,
+              25.12362
+            ],
+            [
+              55.42512,
+              25.12396
+            ],
+            [
+              55.42484,
+              25.12391
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dubai Outsource City",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

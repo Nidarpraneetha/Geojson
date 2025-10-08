@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.20853,
+              25.12681
+            ],
+            [
+              55.2099,
+              25.12589
+            ],
+            [
+              55.21061,
+              25.12645
+            ],
+            [
+              55.20932,
+              25.12741
+            ],
+            [
+              55.20853,
+              25.12681
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dubai Gold and Diamond Park",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

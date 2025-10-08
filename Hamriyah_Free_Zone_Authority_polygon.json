@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.48308,
+              25.46176
+            ],
+            [
+              55.4835,
+              25.46152
+            ],
+            [
+              55.48394,
+              25.46204
+            ],
+            [
+              55.48345,
+              25.46228
+            ],
+            [
+              55.48308,
+              25.46176
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Hamriyah Free Zone Authority",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.67763,
+              25.27805
+            ],
+            [
+              55.67794,
+              25.27875
+            ],
+            [
+              55.67898,
+              25.27836
+            ],
+            [
+              55.67868,
+              25.27771
+            ],
+            [
+              55.67763,
+              25.27805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Sharjah Media City – Shams",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

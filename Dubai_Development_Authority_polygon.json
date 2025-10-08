@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.251,
+              25.04252
+            ],
+            [
+              55.25123,
+              25.0423
+            ],
+            [
+              55.25148,
+              25.0425
+            ],
+            [
+              55.25125,
+              25.04274
+            ],
+            [
+              55.251,
+              25.04252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dubai Development Authority",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

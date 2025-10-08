@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.28511,
+              25.2244
+            ],
+            [
+              55.28743,
+              25.223
+            ],
+            [
+              55.28961,
+              25.2258
+            ],
+            [
+              55.28703,
+              25.22699
+            ],
+            [
+              55.28511,
+              25.2244
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Dubai World Trade Center (DWTC)",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.06378,
+              25.93893
+            ],
+            [
+              56.0634,
+              25.93843
+            ],
+            [
+              56.06377,
+              25.93827
+            ],
+            [
+              56.06414,
+              25.93881
+            ],
+            [
+              56.06378,
+              25.93893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Ras AlKhaimah Maritime",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

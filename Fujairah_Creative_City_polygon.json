@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.34464,
+              25.12153
+            ],
+            [
+              56.34466,
+              25.12123
+            ],
+            [
+              56.34531,
+              25.12124
+            ],
+            [
+              56.34532,
+              25.12152
+            ],
+            [
+              56.34464,
+              25.12153
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Fujairah Creative City",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

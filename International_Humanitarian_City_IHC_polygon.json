@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.07085,
+              24.89528
+            ],
+            [
+              55.07122,
+              24.8946
+            ],
+            [
+              55.07147,
+              24.89469
+            ],
+            [
+              55.07119,
+              24.89542
+            ],
+            [
+              55.07085,
+              24.89528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "International Humanitarian City (IHC)",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}

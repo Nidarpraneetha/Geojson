@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.37754,
+              25.11882
+            ],
+            [
+              55.37769,
+              25.11842
+            ],
+            [
+              55.37793,
+              25.11848
+            ],
+            [
+              55.37781,
+              25.1189
+            ],
+            [
+              55.37754,
+              25.11882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "International Free Zone Authority (IFZA)",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    }
+  ]
+}
