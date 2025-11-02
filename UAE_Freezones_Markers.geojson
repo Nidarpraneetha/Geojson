@@ -1,0 +1,757 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abu Dhabi Airports Free Zone",
+                "label": "ADAFZ",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.6408055947753,
+                    24.4293332782232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abu Dhabi Global Market",
+                "label": "ADGM",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.387972194778,
+                    24.4997221781765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ajman Free Zone",
+                "label": "AFZ",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4526421490012,
+                    25.419088444259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ajman Media City",
+                "label": "AMC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4837695948125,
+                    25.4050254862556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Airport Free Zone (DAFZA)",
+                "label": "DAFZA",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3722966326053,
+                    25.2610485004932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Car and Automotive City Free Zone (DUCAMZ)",
+                "label": "DUCAMZ",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3774185057679,
+                    25.1732787576536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Commerce City",
+                "label": "DCC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3679670414232,
+                    25.2355990186019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Design District",
+                "label": "D3",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2974661286271,
+                    25.1874763762484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Development Authority",
+                "label": "DDA",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2512522947985,
+                    25.0424718575575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Gold and Diamond Park",
+                "label": "Gold & Diamond Park",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2099861659654,
+                    25.1263772641641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Healthcare City",
+                "label": "DHCC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3240148628127,
+                    25.2317181928461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Industrial Park / Dubai Industrial City (DIC)",
+                "label": "DIC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.0685639870817,
+                    24.8450567276856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai International Academic City",
+                "label": "DIAC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4238656948019,
+                    25.1307904910158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai International Financial Centre",
+                "label": "DIFC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2769831296744,
+                    25.2087826771315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Internet City",
+                "label": "DIC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1629794755363,
+                    25.097766504307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Knowledge Park",
+                "label": "DKP",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1629141899841,
+                    25.1042886826713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Logistics City",
+                "label": "DLC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1091648016904,
+                    24.8997005682106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Maritime City",
+                "label": "Maritime",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2631302496017,
+                    25.2699492381022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Media City",
+                "label": "DMC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1575798898552,
+                    25.0961534594877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Multi Commodities Centre",
+                "label": "DMCC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1411767712849,
+                    25.0686603590935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Outsource City",
+                "label": "DOC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4253470413967,
+                    25.1237391148212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Production City",
+                "label": "DPC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1899628839452,
+                    25.0318286486886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Science Park",
+                "label": "DSP",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2395444702215,
+                    25.0745199287356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Silicon Oasis",
+                "label": "DSO",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3884921823615,
+                    25.1303925043811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai South",
+                "label": "DSouth",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1186851846062,
+                    24.9105978168449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Studio City",
+                "label": "DSC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2508332414434,
+                    25.0423623493646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai Textile City\u00a0",
+                "label": 0,
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4246523948033,
+                    25.1673207673956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubai World Trade Center (DWTC)",
+                "label": "DWTC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2875217922453,
+                    25.2223905355269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Expo City",
+                "label": "Expo City",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1507018236318,
+                    24.9608259175356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fujairah Creative City",
+                "label": "FCC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.3449045948015,
+                    25.1213455497658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fujairah Free Zone",
+                "label": "FFZ",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.350454265967,
+                    25.16945085739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hamriyah Free Zone Authority",
+                "label": "HFZA",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4834560659784,
+                    25.4624938775509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "International Free Zone Authority (IFZA)",
+                "label": "IFZA",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3777077819452,
+                    25.1186035937869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "International Humanitarian City (IHC)",
+                "label": "IHC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.0710803701792,
+                    24.8952172291094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jebel Ali Free Zone",
+                "label": "JAFZA",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.0441727113598,
+                    24.9852493044233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Khalifa Industrial Zone Abu Dhabi (KIZAD)",
+                "label": 0,
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.7302278861621,
+                    24.7307507535821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Masdar City Free Zone",
+                "label": "Masdar",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.618559065939,
+                    24.4333738422376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Media Zone Authority TWOFOUR54",
+                "label": "TWOFOUR54",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.6008727019438,
+                    24.4607459448296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meydan Free Zone",
+                "label": "Meydan",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2999884107237,
+                    25.1569591327636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "National Industries Park",
+                "label": "NIP",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.061139494793,
+                    24.8975782559128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ras Al Khaimah Economic Zone (RAKEZ)",
+                "label": "RAKEZ",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9682992340565,
+                    25.8009012771667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ras AlKhaimah Maritime",
+                "label": "RAK Maritime",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.0509213911256,
+                    25.9616856695603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sharjah International Airport Free Zone",
+                "label": "SAIF",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4961076236458,
+                    25.3263237799926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sharjah Media City \u2013 Shams",
+                "label": "Shams",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.6782897948076,
+                    25.2784455776686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sharjah Publishing City",
+                "label": "SPC",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4580623948092,
+                    25.3201687776418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sharjah Research Technology & Innovation Park",
+                "label": "SRTIP",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4885707659729,
+                    25.3226299776403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Umm Al Quwain Free Trade Zone",
+                "label": "UAQFTZ",
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.7431455948183,
+                    25.5541861361279
+                ]
+            }
+        }
+    ]
+}
