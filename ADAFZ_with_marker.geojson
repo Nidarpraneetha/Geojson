@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.64022,
+              24.42967
+            ],
+            [
+              54.63923,
+              24.42882
+            ],
+            [
+              54.64224,
+              24.42668
+            ],
+            [
+              54.64244,
+              24.42613
+            ],
+            [
+              54.64087,
+              24.42406
+            ],
+            [
+              54.64087,
+              24.42363
+            ],
+            [
+              54.64256,
+              24.42351
+            ],
+            [
+              54.64411,
+              24.42341
+            ],
+            [
+              54.64575,
+              24.42438
+            ],
+            [
+              54.64643,
+              24.42515
+            ],
+            [
+              54.64638,
+              24.42638
+            ],
+            [
+              54.64535,
+              24.42699
+            ],
+            [
+              54.64022,
+              24.42967
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "title": "Abu Dhabi Airports Free Zone",
+        "style": "#FF0000,5,1,#ff8800,0.4",
+        "info": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6435,
+          24.4258
+        ]
+      },
+      "properties": {
+        "title": "ADAFZ Marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEtUlEQVR4nO2bT0gcURTGf5JQKCqjCgiBZoNBIBJoFqJQK6bAATyUqglQpgNBIgKhcDGRQk1QUAlFApFRKkoRk8N+5x9l+1m9nc/d/ZP+aGdmdnbO2R8/3z4zznP1mSADwASuAB6gC8gCzgAygM8gCbgEsgE8gAvgUqQKp1x8rBi3Vkqq7oDF8Ebn5JSm6yQWXoGrYAH4F9AAZVqUaylCgh6Di0u6Cs3cZAIU/Ao8MZ0CVJUuKZUF4CUIM1hYZbV6LfNtpFr6DCJ6h6bmQ1mk2hFZgAgJm2nUgiW7sy07os2EdrgBbgCKiAA7hZ3FuRhTAN2llViJ7jaEXqMucSo5haLQjwbWtz9Nx8Xwbi61laxq15hVXQHuaykpo9gYj8AvYBWekX6EceQbQTCjS7SsfkVvE2YJjK6GULBgLuAAdYJrIPiGOrfQXwYYthakFciTqk2AI2oCEGsNnDnXrwrSrUoJMSv2vhKUsIAiCr8Tne+gFikVvRVWqNmxnV1qxHFNZaAO4T3lbB8xMZUb6u2G4Vk6usOn31OpblHPXYEfStqvGGRPdj5Ufr+9c16Jq5kpUqeePOzH1IvmVvuUlbUBShkSyubjW0F5Z7yb/6g4VYXZ+gO2pCaDdf/2/jPy2P8bDqfOPIXjWqKO7EoQ/wB8DOPLgFr+ywADP4kz8ak6mE3z8W2eC+bCCxNQ8BgeQAtN0JpGxYbQbgW+eO9dBDRftFvA5qqrQlNvvH2ZL1uBvA55ugf0FpgfgbI9nXrJch/64qDLFtiH0D6VhJWu5lSyX3sk7pSwRofH0UpE0clRoqA6JDiJHSJmFfZP4Ac+VLtvFCh4EAAAAASUVORK5CYII=",
+        "info": "\ud83d\udccd Location Marker for Abu Dhabi Airports Free Zone"
+      }
+    }
+  ]
+}
